@@ -153,6 +153,6 @@ def getClash(nodes):  #写文件
 
 
 if __name__ == "__main__":
-    url = ""         #替换订阅
+    url = "https://raw.githubusercontent.com/tonyzhou777/SSRClash/master/SSR_Clash_https://sdf15612wefcs.xyz/link/ccSCvRnck70iVOry?sub=1&extend=1.py"         #替换订阅
     nodes = getAllNodes(url)
     getClash(nodes)
